@@ -29,6 +29,7 @@ Buying and selling used cars can be tricky when determining the right price. Thi
 
 ## 📊 Results & Evaluation
 * **R² Score:** ~0.7528
+* **Mean Absolute Error:** 1.472892414003326
 * The model successfully captures the linear relationships between showroom prices, kilometers driven, and final selling prices.
 
 ---
